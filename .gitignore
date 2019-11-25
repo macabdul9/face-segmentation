@@ -1,0 +1,5 @@
+CelebA-HQ-img/
+CelebAMask-HQ-mask-pool/
+CelebAMask-HQ-mask-anno/
+pool-backup/
+*.txt
