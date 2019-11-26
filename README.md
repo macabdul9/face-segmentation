@@ -17,3 +17,8 @@
 #### Results
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  GT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pred &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SegwithGT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SegwithPred
 ![result](index.png)
+
+## Reference
+- [0] Olaf Ronneberger et. al. "U-Net: Convolutional Networks for BiomedicalImage Segmentation"
+- [1] Zongwei Zhou et. al. "UNet++: A Nested U-Net Architecturefor Medical Image Segmentation"
+- [2] Liang-Chieh Chen et. al. "Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation"
