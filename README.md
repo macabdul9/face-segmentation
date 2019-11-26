@@ -8,7 +8,8 @@
 
 ### Requirements
 - Python3.5
-- pip install -r equirements.txt
+- Install the dependencies with command
+  - pip install -r equirements.txt
 
 #### UNet Architecture
 ![unet-architecture](unet.png)
